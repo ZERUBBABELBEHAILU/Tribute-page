@@ -1,0 +1,28 @@
+ #main {
+     margin: main;
+     background-color: #EBEBEB;
+ }
+
+ #title {
+     text-align: center;
+     font-size: 40px;
+ }
+
+ #titleDesc {
+     text-align: center;
+ }
+
+ #image {
+     max-width: 100%;
+     height: auto;
+     margin: auto auto;
+     justify-content: center;
+ }
+
+ img {
+     display: block;
+ }
+
+ #img-caption {
+     text-align: right;
+ }
